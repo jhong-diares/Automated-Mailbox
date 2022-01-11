@@ -1,2 +1,2 @@
 # Automated-Mailbox
- Side-Project
+ Capstone side-project
